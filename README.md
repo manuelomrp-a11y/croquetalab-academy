@@ -1,45 +1,29 @@
-# 🐾 CroquetaLab Academy
+# CroquetaLab Academy — edición artesanal Bolivia 🇧🇴
 
-Curso web gratuito e interactivo en español sobre **fabricación de croquetas secas para perros y gatos** con enfoque técnico y en inocuidad.
+Curso gratuito de preparación de premios y croquetitas caseras para perros y gatos con ingredientes comunes de mercados bolivianos.
 
 ## Contenido
 
-- 12 módulos, 48 lecciones y 12 prácticas.
-- 36 preguntas de evaluación; aprobación mínima de 2/3 por módulo.
-- Progreso local en el navegador (localStorage).
-- Calculadoras de **materia seca**, **balance teórico de secado** y **costo por kg**.
-- Checklist de control, plantillas descargables CSV/TXT y exportación del progreso.
-- Constancia de participación educativa no oficial, imprimible al finalizar.
-- Fuentes institucionales (FEDIAF, AAFCO, FDA, AAHA, SENASAG).
+- 12 módulos y 36 lecciones.
+- 8 recetas completas paso a paso (6 para perros y 2 para gatos), incluida una opción sin horno.
+- Lista de compras y calculadora en bolivianos.
+- Cuestionarios, registro de tandas y constancia educativa.
+- Diseño adaptable a celular y computadora.
 
-## Inicio rápido
+## Alcance y seguridad
 
-Abre `index.html` en cualquier navegador moderno. No se requiere instalar paquetes ni compilar. Para un servidor local puedes ejecutar:
+Las recetas son premios complementarios y NO son una dieta nutricionalmente completa ni una alternativa a las croquetas balanceadas. No se han validado para venta ni almacenamiento prolongado a temperatura ambiente. Refrigerar a 4 °C o menos durante un máximo de 48 horas como pauta casera conservadora o congelar porciones, siempre que se haya cumplido la higiene y cocción.
 
-```bash
-python -m http.server 8000
-```
+No utilizar cebolla, ajo, uvas, pasas, chocolate, xilitol, condimentos ni huesos cocidos. Las temperaturas internas y reglas de refrigeración están explicadas en el curso.
 
-Luego visita `http://localhost:8000`.
+Para dietas habituales, acudir a veterinario especialista en nutrición. Antes de comercializar, revisar los requisitos aplicables del SENASAG.
 
-## Publicación en GitHub Pages
+## Recursos
 
-1. Crea un repositorio público de GitHub llamado `croquetalab-academy`.
-2. Sube los archivos `index.html`, `styles.css` y `app.js` a la rama principal del repositorio (este README es opcional).
-3. En **Settings → Pages → Build and deployment**, selecciona **Deploy from a branch**, la rama `main` y la carpeta `/(root)`.
-4. GitHub generará la página en una URL como `https://TU-USUARIO.github.io/croquetalab-academy/`.
+AAHA, FEDIAF, ASPCA, FoodSafety.gov, Pet Nutrition Alliance. Enlaces directos en la sección Recursos de la web.
 
-## Nota ética y sanitaria
+## Publicación
 
-**El material es exclusivamente educativo.** No ofrece formulaciones completas certificadas ni sustituye asesoría de veterinario especialista en nutrición, ensayos de laboratorio, validación del proceso o cumplimiento sanitario de la jurisdicción. Una croqueta con buen aspecto no necesariamente es inocua o nutricionalmente completa. No alimentar mascotas ni vender prototipos sin la revisión profesional y autorizaciones que correspondan.
+El archivo index.html es autónomo y se publica en GitHub Pages desde la rama main y la carpeta raíz.
 
-## Referencias principales
-
-- [FEDIAF Nutritional Guidelines](https://europeanpetfood.org/self-regulation/nutritional-guidelines/)
-- [FDA Complete and Balanced Pet Food](https://www.fda.gov/animal-veterinary/animal-health-literacy/complete-and-balanced-pet-food)
-- [FDA Regulation of Pet Food](https://www.fda.gov/animal-veterinary/animal-health-literacy/fdas-regulation-pet-food)
-- [SENASAG REGENSA, capítulo 2.2](https://www.senasag.gob.bo/index.php/tramites-y-servicios/convocatorias/regensa-en-linea/461-capitulo-2-2-registro-de-productos-de-uso-veterinario)
-
-## Licencia
-
-Contenido original y código del proyecto: MIT (`LICENSE`). Las fuentes enlazadas conservan sus propios derechos.
+© 2026 CroquetaLab Academy · Proyecto educativo independiente.
