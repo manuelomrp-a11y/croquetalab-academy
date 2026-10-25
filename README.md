@@ -1,29 +1,28 @@
-# CroquetaLab Academy — edición artesanal Bolivia 🇧🇴
+# CroquetaLab · Recetario artesanal Bolivia
 
-Curso gratuito de preparación de premios y croquetitas caseras para perros y gatos con ingredientes comunes de mercados bolivianos.
+Recetario web interactivo con **200 combinaciones caseras de premios** (100 para perros y 100 para gatos), ingredientes comunes en mercados bolivianos, buscador y filtros, creador de recetas, estimaciones aproximadas de energía y macronutrientes, precios en bolivianos, lista de compras y favoritos.
 
-## Contenido
+Incluye **Toby 🐶 y Mishi 🐱**, asistentes interactivos de respuestas predefinidas: no utilizan IA externa ni envían datos a servidores.
 
-- 12 módulos y 36 lecciones.
-- 8 recetas completas paso a paso (6 para perros y 2 para gatos), incluida una opción sin horno.
-- Lista de compras y calculadora en bolivianos.
-- Cuestionarios, registro de tandas y constancia educativa.
-- Diseño adaptable a celular y computadora.
+## Advertencias
 
-## Alcance y seguridad
+- Son **premios ocasionales**, no dietas completas ni terapéuticas. Ninguna receta ha sido validada clínicamente por nutricionistas veterinarios.
+- El recetario no determina adecuación de taurina, calcio, fósforo, vitaminas o minerales.
+- Los datos nutricionales son **estimaciones ilustrativas** basadas en ingredientes cocidos; no son análisis de laboratorio.
+- Los costos son precios de ejemplo, **no cotizaciones verificadas** de Bolivia. Cada visitante puede reemplazarlos.
+- Para sobrepeso, enfermedad renal, diabetes, pancreatitis, alergias, embarazo o crecimiento: consultar a un veterinario antes de cambiar la dieta.
+- Favoritos y recetas personalizadas se guardan solo en localStorage del navegador.
+- La conservación sugerida es conservadora: refrigerar 24–48 h a ≤4 °C o congelar en porciones; nunca asumir que las croquetitas horneadas son estables a temperatura ambiente.
 
-Las recetas son premios complementarios y NO son una dieta nutricionalmente completa ni una alternativa a las croquetas balanceadas. No se han validado para venta ni almacenamiento prolongado a temperatura ambiente. Refrigerar a 4 °C o menos durante un máximo de 48 horas como pauta casera conservadora o congelar porciones, siempre que se haya cumplido la higiene y cocción.
+## Fuentes de información general
 
-No utilizar cebolla, ajo, uvas, pasas, chocolate, xilitol, condimentos ni huesos cocidos. Las temperaturas internas y reglas de refrigeración están explicadas en el curso.
-
-Para dietas habituales, acudir a veterinario especialista en nutrición. Antes de comercializar, revisar los requisitos aplicables del SENASAG.
-
-## Recursos
-
-AAHA, FEDIAF, ASPCA, FoodSafety.gov, Pet Nutrition Alliance. Enlaces directos en la sección Recursos de la web.
+- WSAVA: https://wsava.org/global-guidelines/global-nutrition-guidelines/
+- ASPCA: https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets
+- FDA: https://www.fda.gov/animal-veterinary/animal-health-literacy/tips-safe-handling-pet-food-and-treats
+- USDA Food Safety: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart
+- USDA FoodData Central: https://fdc.nal.usda.gov/
+- Tufts Petfoodology: https://sites.tufts.edu/petfoodology/2016/07/14/should-you-make-your-own-pet-food-at-home/
 
 ## Publicación
 
-El archivo index.html es autónomo y se publica en GitHub Pages desde la rama main y la carpeta raíz.
-
-© 2026 CroquetaLab Academy · Proyecto educativo independiente.
+GitHub Pages desde main / (root). Abra index.html para usar el recetario sin backend.
